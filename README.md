@@ -1,17 +1,11 @@
 # Aeka Advisors – Intern Technical Assignment
 
-This repository contains all tasks completed as part of the Aeka Advisors campus hiring process.  
+This repository contains the laast tasks completed as part of the Aeka Advisors campus hiring process.  
 Each task has been implemented and documented as per the given instructions.
 
 ---
 
 ## Repository Structure
-
-- **Task 1 – Full Stack Creative Showcase**  
-  Frontend-based web application for showcasing digital artwork.
-
-- **Task 2 – Smart ToDo API**  
-  RESTful backend API for task management with authentication and database support.
 
 - **Task 3 – Cricket World Cup Insights**  
   Business Intelligence dashboard built using Google Looker Studio.
