@@ -1,0 +1,25 @@
+Source City: Delhi
+--------------------------------
+Gurudwara Bangla Sahib – New Delhi, Delhi – Score: 0.7537
+Jama Masjid – New Delhi, Delhi – Score: 0.7172
+Rail Museum – New Delhi, Delhi – Score: 0.7033
+Golden Temple (Harmandir Sahib) – Amritsar, Punjab – Score: 0.6939
+Kedarnath – Kedarnath, Uttarakhand – Score: 0.6894
+
+
+Source City: Mumbai
+--------------------------------
+Mahalakshmi Temple – Kolhapur, Maharashtra – Score: 0.7497
+Sai Baba Temple – Shirdi, Maharashtra – Score: 0.7369
+Shaniwar Wada – Pune, Maharashtra – Score: 0.7292
+Ganapatipule Temple – Ratnagiri, Maharashtra – Score: 0.7209
+Ajanta Caves – Aurangabad, Maharashtra – Score: 0.7167
+
+
+Source City: Kolkata
+--------------------------------
+Kankalitala Temple – Bolpur, West Bengal – Score: 0.7194
+Hangseswari Temple – Hooghly, West Bengal – Score: 0.7130
+Hazarduari Palace – Murshidabad, West Bengal – Score: 0.7088
+Ayodhya Hills – Purulia, West Bengal – Score: 0.7080
+Digha Beach – Digha, West Bengal – Score: 0.7064
